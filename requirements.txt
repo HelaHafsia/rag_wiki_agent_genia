@@ -1,0 +1,35 @@
+# NLP + IA Gen
+openai
+transformers
+faiss-cpu
+sentence-transformers
+langchain
+
+
+# Vector store
+faiss-cpu  # ou faiss-gpu si tu as un GPU compatible
+chromadb  # (optionnel)
+
+# Traitement texte
+nltk
+spacy
+tiktoken
+
+# Backend API (facultatif)
+fastapi
+uvicorn
+
+# Autres utilitaires
+python-dotenv
+pandas
+tqdm
+scikit-learn
+
+# Environnement
+ipykernel  # pour Jupyter
+
+
+# # Gestion de fichier, logging ..
+# os
+# json
+# logging

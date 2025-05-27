@@ -1,0 +1,13 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers temporaires
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Données et modèles
+/data/
+/models/
+.vector_cache/
+vectorstore/
