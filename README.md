@@ -5,7 +5,8 @@ Ce projet vise à construire un agent intelligent capable de répondre automatiq
 ## Structure du projet
 
 
-<pre lang="md"> ## Structure du projet ``` rag-wiki-agent/
+<pre lang="md"> ## Structure du projet 
+``` rag-wiki-agent/
 │
 ├── data/ # Données brutes/décompressées : Contient les fichiers bruts d'articles Wikipedia.
 ├── models/ # Modèles ou checkpoints locaux
@@ -20,7 +21,8 @@ Ce projet vise à construire un agent intelligent capable de répondre automatiq
 ├── README.md
 ├── requirements.txt
 ├── Dockerfile
-└── .gitignore ``` </pre>
+└── .gitignore 
+``` </pre>
 
 
 ##  Installation
